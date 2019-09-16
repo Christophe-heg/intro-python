@@ -1,1 +1,1 @@
-print("wow 2");
+print("Bonjour la HEG");
